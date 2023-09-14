@@ -1,0 +1,44 @@
+{
+  "enquiry": [
+    {
+      "firstName": "ram",
+      "lastName": "charan",
+      "email": "ram@gmail.com",
+      "mobile": "94651535613",
+      "weight": 25,
+      "height": 1.5,
+      "bmi": 11.11111111111111,
+      "bmiResult": "Under Weight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Endurance",
+        "Strength"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-09-14T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "varun",
+      "lastName": "poloju",
+      "email": "varun@gmail.com",
+      "mobile": "415648615",
+      "weight": 82,
+      "height": 2,
+      "bmi": 20.5,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Strength",
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-09-14T18:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
